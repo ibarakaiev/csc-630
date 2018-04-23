@@ -35,6 +35,3 @@ void insertNth(struct node ** headP, int data, int index);
 // precondtion: headP points to a linked list pointer
 // postcondition: all elements of the list have been removed
 void removeAll(struct node ** headP);
-
-
-
